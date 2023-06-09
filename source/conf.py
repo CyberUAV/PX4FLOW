@@ -5,8 +5,6 @@
 
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-#2st commit
-#3st commit
 
 project = 'px4flow'
 copyright = '2023, BZUAV'
