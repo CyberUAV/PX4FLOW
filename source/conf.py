@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'px4flow'
+project = 'px4flow 使用手册'
 copyright = '2023, BZUAV'
 author = 'BZUAV'
 release = '0.0.1'
