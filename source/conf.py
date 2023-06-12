@@ -31,8 +31,8 @@ html_logo_width = "200px"
 html_logo_height="100px"
 
 html_theme_options = {
-    'logo_only': True,
-    # 'display_version': True,
+    'logo_only': False,
+    'display_version': True,
     # 'prev_next_buttons_location': 'bottom',
     # 'style_external_links': False,
     # 'vcs_pageview_mode': '',
