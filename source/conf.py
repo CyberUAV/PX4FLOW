@@ -6,13 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-#8st
-#10sf
-
 project = 'px4flow'
 copyright = '2023, BZUAV'
 author = 'BZUAV'
-release = '1'
+release = '0.0.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
