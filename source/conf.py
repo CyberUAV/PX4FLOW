@@ -27,7 +27,7 @@ language = 'zh_CN'
 html_static_path = ['_static']
 html_theme = "sphinx_rtd_theme"
 html_logo = '_static/BZUAV-S.png'
-# html_logo_width = "600px"
+html_logo_width = "100px"
 # html_logo_height="300px"
 
 html_theme_options = {
