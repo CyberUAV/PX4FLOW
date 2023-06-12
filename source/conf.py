@@ -35,8 +35,8 @@ html_theme_options = {
     # 'style_external_links': False,
     # 'vcs_pageview_mode': '',
     # 'style_nav_header_background': 'darkolivegreen',#深橄榄绿色
-    # 'style_nav_header_background': 'lightseagreen',#浅海蓝色
-    'style_nav_header_background': 'seashell',#贝壳白
+    'style_nav_header_background': 'lightseagreen',#浅海蓝色
+    # 'style_nav_header_background': 'seashell',#贝壳白
 
     # # Toc options
     # 'collapse_navigation': True,
